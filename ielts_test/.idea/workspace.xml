@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66cb7c46-eb7f-4062-b12f-9cf3c43c9eda" name="Default" comment="test">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase/test_jianyaListen.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCase/test_jianyaListen.py" afterPath="$PROJECT_DIR$/TestCase/test_jianyaListen.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCase/test_listenVocabulary.py" afterPath="$PROJECT_DIR$/TestCase/test_listenVocabulary.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.py" afterPath="$PROJECT_DIR$/index.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +17,9 @@
     <SUITE FILE_PATH="coverage/LoL_Automatic$test.coverage" NAME="test Coverage Results" MODIFIED="1526877002196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
     <SUITE FILE_PATH="coverage/LoL_Automatic$index.coverage" NAME="index Coverage Results" MODIFIED="1526888764059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Appium_Automatic_Python$demo.coverage" NAME="demo Coverage Results" MODIFIED="1527525270455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Page" />
-    <SUITE FILE_PATH="coverage/ielts_test$index.coverage" NAME="index Coverage Results" MODIFIED="1540278448909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ielts_test$index.coverage" NAME="index Coverage Results" MODIFIED="1540309819429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LoL_Automatic$py_test_in_test_demo_py.coverage" NAME="py.test in test_demo.py Coverage Results" MODIFIED="1526884256672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
+    <SUITE FILE_PATH="coverage/ielts_test$test_jianyaListen.coverage" NAME="test_jianyaListen Coverage Results" MODIFIED="1540311976217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
     <SUITE FILE_PATH="coverage/LoL_Automatic$py_test_for_test_demo_LoginTest_test_login.coverage" NAME="py.test for test_demo.LoginTest.test_login Coverage Results" MODIFIED="1526886304853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
     <SUITE FILE_PATH="coverage/LoL_Automatic$ReadConf.coverage" NAME="ReadConf Coverage Results" MODIFIED="1526869613073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conf" />
   </component>
@@ -94,8 +97,8 @@
       <file leaf-file-name="test_listenVocabulary.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCase/test_listenVocabulary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="91" lean-forward="true" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
+            <state relative-caret-position="360">
+              <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
               <folding>
                 <element signature="e#14#36#0" expanded="true" />
               </folding>
@@ -106,9 +109,11 @@
       <file leaf-file-name="test_jianyaListen.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestCase/test_jianyaListen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" column="91" lean-forward="true" selection-start-line="17" selection-start-column="91" selection-end-line="17" selection-end-column="91" />
-              <folding />
+            <state relative-caret-position="210">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding>
+                <element signature="e#14#36#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,8 +133,8 @@
       <file leaf-file-name="index.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="311">
+              <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="40" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -140,22 +145,10 @@
       <file leaf-file-name="basic_unittest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCase/basic_unittest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="383">
               <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basic_page.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Page/basic_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-769">
-              <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#57#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,8 +192,8 @@
         <option value="$PROJECT_DIR$/Page/demo.py" />
         <option value="$PROJECT_DIR$/TestCase/listenVocabulary.py" />
         <option value="$PROJECT_DIR$/TestCase/basic_unittest.py" />
-        <option value="$PROJECT_DIR$/index.py" />
         <option value="$PROJECT_DIR$/Page/basic_page.py" />
+        <option value="$PROJECT_DIR$/index.py" />
         <option value="$PROJECT_DIR$/TestCase/test_listenVocabulary.py" />
         <option value="$PROJECT_DIR$/TestCase/test_jianyaListen.py" />
       </list>
@@ -213,8 +206,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="354" />
-    <option name="y" value="99" />
+    <option name="x" value="65" />
+    <option name="y" value="55" />
     <option name="width" value="1500" />
     <option name="height" value="919" />
   </component>
@@ -288,7 +281,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ielts_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ielts_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Page" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ielts_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ielts_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MongoDB" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ielts_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ielts_test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -303,6 +338,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/TestCase" />
       <recent name="F:\workspace\ielts_test\TestCase" />
@@ -322,10 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="false" name="result.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/LoL_Automatic/Report/result.html">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.test_jianyaListen">
     <configuration default="false" name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,25 +375,6 @@
       <module name="LoL_Automatic" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Page/demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LoL_Automatic" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,6 +412,44 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/Register.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/Cellar/python3/3.6.4_2/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LoL_Automatic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_jianyaListen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/Cellar/python3/3.6.4_2/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LoL_Automatic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCase/test_jianyaListen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -542,19 +596,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.result.html" />
-      <item index="1" class="java.lang.String" itemvalue="Python.demo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.index" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.pytest for TestCase.Register.LoginTest.test_login" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.pytest in Register.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python.demo" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.pytest for TestCase.Register.LoginTest.test_login" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.pytest in Register.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python.index" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test_jianyaListen" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.pytest in Register.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.pytest for TestCase.Register.LoginTest.test_login" />
-        <item index="2" class="java.lang.String" itemvalue="Python.index" />
-        <item index="3" class="java.lang.String" itemvalue="Python.demo" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.result.html" />
+        <item index="0" class="java.lang.String" itemvalue="Python.test_jianyaListen" />
+        <item index="1" class="java.lang.String" itemvalue="Python.index" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.pytest in Register.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.pytest for TestCase.Register.LoginTest.test_login" />
+        <item index="4" class="java.lang.String" itemvalue="Python.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -607,14 +661,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="354" y="99" width="1500" height="919" extended-state="0" />
+    <frame x="65" y="55" width="1500" height="919" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2085048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5027435" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.49725652" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -705,7 +759,7 @@
         <state relative-caret-position="1755">
           <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
           <folding>
-            <element signature="e#0#57#0" expanded="true" />
+            <element signature="e#0#57#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -748,26 +802,6 @@
     <entry file="file://E:/Programes/python3.6/Lib/site-packages/selenium/webdriver/common/by.py" />
     <entry file="file://E:/Programes/python3.6/Lib/unittest/suite.py" />
     <entry file="file://E:/Programes/python3.6/Lib/unittest/case.py" />
-    <entry file="file://$PROJECT_DIR$/TestCase/basic_unittest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Page/basic_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-769">
-          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Page/Login_Page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -786,31 +820,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/test_listenVocabulary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="91" lean-forward="true" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
+        <state relative-caret-position="360">
+          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
           <folding>
             <element signature="e#14#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Page/basic_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#57#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/basic_unittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/BSTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/test_jianyaListen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="91" lean-forward="true" selection-start-line="17" selection-start-column="91" selection-end-line="17" selection-end-column="91" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#14#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

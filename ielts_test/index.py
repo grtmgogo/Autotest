@@ -1,6 +1,6 @@
 import os,unittest,time
 # from Report.HTMLTestRunner3 import HTMLTestRunner
-from HTMLTestRunner.BSTestRunner import BSTestRunner
+from Common.BSTestRunner import BSTestRunner
 import sys
 
 def create_suite():
@@ -29,10 +29,10 @@ def report():
 
 if __name__ == '__main__':
 
-    TestSuite = create_suite()
-    runner = unittest.TextTestRunner()
-    runner.run(TestSuite)
+    # TestSuite = create_suite()
+    # runner = unittest.TextTestRunner()
+    # runner.run(TestSuite)
 
-    # with open(report(),'wb') as fp:
-    #     runner = BSTestRunner(stream=fp,title='Test Report',description='Test case result')
-    #     runner.run(TestSuite)
+    with open(report(),'wb') as fp:
+        runner = BSTestRunner(stream=fp,title='Test Report',description='Test case result')
+        runner.run(TestSuite)

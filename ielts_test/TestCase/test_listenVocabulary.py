@@ -22,9 +22,9 @@ class ListenVocTest(basic_unittest):
     def tearDown(self):
         self.driver.close_app()
 
-if __name__ =="__main__":
-    testsuit = unittest.TestSuite()
-    testsuit.addTest(ListenVocTest("test_ListenVoc"))
+# if __name__ =="__main__":
+#     testsuit = unittest.TestSuite()
+#     testsuit.addTest(ListenVocTest("test_ListenVoc"))
     # testsuit.addTest(ListenVocTest("test_login2"))
 
 

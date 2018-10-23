@@ -6,7 +6,7 @@ from TestCase.basic_unittest import *
 import unittest
 from selenium.webdriver.common.by import By
 
-class ListenVocTest(basic_unittest):
+class JianyaListenTest(basic_unittest):
     def setUp(self):
         self.driver.launch_app()
 
@@ -15,14 +15,18 @@ class ListenVocTest(basic_unittest):
         sleep(10)
         base.swipe_up()
         sleep(10)
-        base.click(By.ID, 'com.enhance.kaomanfen.yasilisteningapp:id/ll_listen_vocabulary')
+        base.click(By.ID, 'com.enhance.kaomanfen.yasilisteningapp:id/ll_jianya_listen')
+        # 用text属性定位
+        # self.driver.findElementByAndroidUIAutomator("new UiSelector().text(\"剑桥雅思听力4\")").click()
 
     def tearDown(self):
         self.driver.close_app()
 
 if __name__ =="__main__":
     testsuit = unittest.TestSuite()
-    testsuit.addTest(ListenVocTest("test_ListenVoc"))
+    testsuit.addTest(JianyaListenTest("test_jianyaListen"))
     # testsuit.addTest(ListenVocTest("test_login2"))
+    runner = unittest.TextTestRunner()
+    runner.run(testsuit)
 
 
