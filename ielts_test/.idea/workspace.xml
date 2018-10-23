@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66cb7c46-eb7f-4062-b12f-9cf3c43c9eda" name="Default" comment="test">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestCase/test_listenVocabulary.py" afterPath="$PROJECT_DIR$/TestCase/test_listenVocabulary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestCase/test_jianyaListen.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -91,14 +91,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_listenVocabulary.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_listenVocabulary.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestCase/test_listenVocabulary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+            <state relative-caret-position="240">
+              <caret line="19" column="91" lean-forward="true" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
               <folding>
                 <element signature="e#14#36#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_jianyaListen.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestCase/test_jianyaListen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="17" column="91" lean-forward="true" selection-start-line="17" selection-start-column="91" selection-end-line="17" selection-end-column="91" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -192,6 +202,7 @@
         <option value="$PROJECT_DIR$/index.py" />
         <option value="$PROJECT_DIR$/Page/basic_page.py" />
         <option value="$PROJECT_DIR$/TestCase/test_listenVocabulary.py" />
+        <option value="$PROJECT_DIR$/TestCase/test_jianyaListen.py" />
       </list>
     </option>
   </component>
@@ -293,6 +304,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestCase" />
       <recent name="F:\workspace\ielts_test\TestCase" />
       <recent name="E:\LOLProject\LoL_Automatic" />
       <recent name="E:\LOLProject\LoL_Automatic\Report" />
@@ -786,11 +798,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestCase/test_listenVocabulary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        <state relative-caret-position="240">
+          <caret line="19" column="91" lean-forward="true" selection-start-line="19" selection-start-column="91" selection-end-line="19" selection-end-column="91" />
           <folding>
             <element signature="e#14#36#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/test_jianyaListen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="91" lean-forward="true" selection-start-line="17" selection-start-column="91" selection-end-line="17" selection-end-column="91" />
+          <folding />
         </state>
       </provider>
     </entry>
