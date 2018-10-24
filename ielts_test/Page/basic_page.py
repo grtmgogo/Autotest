@@ -123,6 +123,10 @@ class Basic_page(object):
         height, width = self.get_windowsize()
         self.driver.swipe(width/2, height * 1/4, width/2, height * 1/10)
 
+    def swipe_up2(self):
+        height, width = self.get_windowsize()
+        self.driver.swipe(width/2, height * 3/4, width/2, height * 1/4)
+
     # 向下滑动屏幕
     def swipe_down(self):
         height, width = self.get_windowsize()
