@@ -6,7 +6,7 @@ from TestCase.basic_unittest import *
 import unittest
 from selenium.webdriver.common.by import By
 
-class LoginTest(basic_unittest):
+class ListenVocTest(basic_unittest):
     def setUp(self):
         self.driver.launch_app()
 
@@ -24,7 +24,7 @@ class LoginTest(basic_unittest):
 
 # if __name__ =="__main__":
 #     testsuit = unittest.TestSuite()
-#     testsuit.addTest(LoginTest("test_login"))
-#     testsuit.addTest(LoginTest("test_login2"))
+#     testsuit.addTest(ListenVocTest("test_ListenVoc"))
+    # testsuit.addTest(ListenVocTest("test_login2"))
 
 
